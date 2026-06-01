@@ -1,4 +1,5 @@
 ## Hi there 👋
+I'm a Software Engineering student and Flutter developer passionate about building mobile applications that solve real-world problems. I enjoy creating clean, scalable, and user-friendly apps while continuously improving my skills in mobile development, backend integration, and software architecture.
 
 <!--
 **AyazM2H/AyazM2H** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
