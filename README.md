@@ -5,7 +5,7 @@ I'm a Flutter developer passionate about building mobile applications that solve
 
 - 🌱 I’m currently learning **ML Kit**
 
-- 📫 How to reach me **mahmud.ayaz2020epic@gmail.com**
+- 📫 How to reach me **mahmudayaz2024@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
